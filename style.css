@@ -1,0 +1,31 @@
+h1{
+    color:black;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 650;
+    line-height: normal;
+}
+h2{
+    color:rgb(32, 188, 232);
+    text-align: center;
+}
+div{
+    background-color: rgb(32, 188, 232);
+}
+button{
+    color:red;
+    background-color:black;
+}
+body{
+    background-color:#1d6b87;
+}
+p{
+    color:rgb(11, 183, 221);
+    text-align:center;
+    font-size: large;
+}
+a{
+    text-align: center;
+    color:rgb(51, 220, 21);
+    text-decoration:"text-decloration-line";
+}
